@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projectSix/static/css/main.936fcc4f.chunk.css",
+    "main.js": "/projectSix/static/js/main.b78af5c7.chunk.js",
+    "main.js.map": "/projectSix/static/js/main.b78af5c7.chunk.js.map",
+    "runtime-main.js": "/projectSix/static/js/runtime-main.75aeb787.js",
+    "runtime-main.js.map": "/projectSix/static/js/runtime-main.75aeb787.js.map",
+    "static/js/2.0645c9f4.chunk.js": "/projectSix/static/js/2.0645c9f4.chunk.js",
+    "static/js/2.0645c9f4.chunk.js.map": "/projectSix/static/js/2.0645c9f4.chunk.js.map",
+    "index.html": "/projectSix/index.html",
+    "precache-manifest.b64c5fe1028796f797f07d71de58ef1f.js": "/projectSix/precache-manifest.b64c5fe1028796f797f07d71de58ef1f.js",
+    "service-worker.js": "/projectSix/service-worker.js",
+    "static/css/main.936fcc4f.chunk.css.map": "/projectSix/static/css/main.936fcc4f.chunk.css.map",
+    "static/media/App.scss": "/projectSix/static/media/restaurantRecommendation3Placeholder.f66b160a.jpg",
+    "static/media/imagePlaceholder.jpg": "/projectSix/static/media/imagePlaceholder.5ee2ff7e.jpg",
+    "static/media/yelpLogo.png": "/projectSix/static/media/yelpLogo.0653b58a.png",
+    "static/media/yelpLogoIconOnly.png": "/projectSix/static/media/yelpLogoIconOnly.adbe3936.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75aeb787.js",
+    "static/js/2.0645c9f4.chunk.js",
+    "static/css/main.936fcc4f.chunk.css",
+    "static/js/main.b78af5c7.chunk.js"
+  ]
+}
