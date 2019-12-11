@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/projectSix/static/css/main.b95ca2a8.chunk.css",
-    "main.js": "/projectSix/static/js/main.bd51143e.chunk.js",
-    "main.js.map": "/projectSix/static/js/main.bd51143e.chunk.js.map",
+    "main.css": "/projectSix/static/css/main.845cafdc.chunk.css",
+    "main.js": "/projectSix/static/js/main.521b5af0.chunk.js",
+    "main.js.map": "/projectSix/static/js/main.521b5af0.chunk.js.map",
     "runtime-main.js": "/projectSix/static/js/runtime-main.75aeb787.js",
     "runtime-main.js.map": "/projectSix/static/js/runtime-main.75aeb787.js.map",
     "static/js/2.eb999f37.chunk.js": "/projectSix/static/js/2.eb999f37.chunk.js",
     "static/js/2.eb999f37.chunk.js.map": "/projectSix/static/js/2.eb999f37.chunk.js.map",
     "index.html": "/projectSix/index.html",
-    "precache-manifest.8de35c19459dcd230cca9238a00eb321.js": "/projectSix/precache-manifest.8de35c19459dcd230cca9238a00eb321.js",
+    "precache-manifest.96347e8a9716fa7bbb027d989326464a.js": "/projectSix/precache-manifest.96347e8a9716fa7bbb027d989326464a.js",
     "service-worker.js": "/projectSix/service-worker.js",
-    "static/css/main.b95ca2a8.chunk.css.map": "/projectSix/static/css/main.b95ca2a8.chunk.css.map",
+    "static/css/main.845cafdc.chunk.css.map": "/projectSix/static/css/main.845cafdc.chunk.css.map",
     "static/media/App.scss": "/projectSix/static/media/restaurantRecommendation3Placeholder.e51818c5.jpg",
     "static/media/imagePlaceholder.jpg": "/projectSix/static/media/imagePlaceholder.ceeeceaa.jpg",
     "static/media/yelpLogo.png": "/projectSix/static/media/yelpLogo.0653b58a.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.75aeb787.js",
     "static/js/2.eb999f37.chunk.js",
-    "static/css/main.b95ca2a8.chunk.css",
-    "static/js/main.bd51143e.chunk.js"
+    "static/css/main.845cafdc.chunk.css",
+    "static/js/main.521b5af0.chunk.js"
   ]
 }
